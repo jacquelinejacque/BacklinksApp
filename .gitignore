@@ -1,0 +1,21 @@
+node_modules/
+*.env
+package-lock.json
+
+# Node modules
+node_modules/
+backlinksappfrontend/node_modules/
+
+# Build outputs
+backlinksappfrontend/dist/
+dist/
+
+# Environment files
+.env
+backlinksappfrontend/.env
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
